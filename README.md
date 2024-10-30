@@ -70,8 +70,8 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
   <img src="logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
-</div>
-
 ## Thank You
 
 Thank you for exploring the Age Calculator! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
+
+</div>
